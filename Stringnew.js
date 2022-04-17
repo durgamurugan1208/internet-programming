@@ -6,5 +6,5 @@ function s(str) {
   return false;
 }
 
-console.log(s("new vaishu"))
-console.log(s("vaishnavi"))
+console.log(s("new Durga "))
+console.log(s("Durgavishalini"))
